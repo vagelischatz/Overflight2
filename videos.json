@@ -24,6 +24,14 @@
         "url_4k_hdr": "http://videos.pexels.com/video-files/15171884/15171884-uhd_3840_2160_24fps.mp4"
     },
     {
+        "location": "Athens",
+        "title": "Acropolis4",
+        "url_1080p": "http://videos.pexels.com/video-files/11615359/11615359-uhd_3840_2160_30fps.mp4",
+        "url_1080p_hdr": "http://videos.pexels.com/video-files/11615359/11615359-uhd_3840_2160_30fps.mp4",
+        "url_4k": "http://videos.pexels.com/video-files/11615359/11615359-uhd_3840_2160_30fps.mp4",
+        "url_4k_hdr": "http://videos.pexels.com/video-files/11615359/11615359-uhd_3840_2160_30fps.mp4"
+    },
+    {
         "location": "China",
         "title": "Mountains",
         "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
